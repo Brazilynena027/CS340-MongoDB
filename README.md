@@ -1,6 +1,6 @@
 # CS340-MongoDB
 
-How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. 
+# How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. 
 
 Writing programs that are maintainable, readable, and adaptable would follow best practices and follow a consistent coding style. Also, avoid duplication. While developing my CRUD Python module, I developed the code in sections. I then wrote the test code to also test that portion of the code. While developing this code I also made sure to put comments on those sections that I developed. 
 
